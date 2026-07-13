@@ -1,6 +1,6 @@
 # Banner-ModelViewer3D
 
-Banner 3D standalone del **Rack Selectivo** (FRIO INC).
+Banner 3D standalone del **Rack Selectivo** (DITE INC).
 
 ## Desarrollo
 
